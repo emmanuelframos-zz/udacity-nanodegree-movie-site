@@ -1,0 +1,17 @@
+###### Follow the steps below to run the application #######
+
+1 - Certify you have installed Python 2.7
+
+2 - Open Python IDLE (Python GUI)
+
+3 - Using Python GUI, open the file: "entertainment_center.py"
+
+4 - Run Module (F5)
+
+6 - Our website will opened
+
+7 - Click on "Movie Art" (image) to see the Youtube trailer
+
+8 - Click on "Storyline" (link) to see the movie storyline
+
+9 - We can rate movies clicking on stars
