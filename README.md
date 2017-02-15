@@ -10,7 +10,7 @@ We recommend that you use Python 2.7 or higher.
 ## Steps to Run Application
 1. After install Python, add the path of your python.exe in your environment variables
 2. In your command line tool, run the command: `python --version`
-2.1 If the command fail on showing Python Version, redefine your environment variable
+    * If the command fail on showing Python Version, redefine your environment variable
 3. Execute the file `run.bat` (Windows) or `run.sh` (Linux or Mac) to run the application
 4. The website will be opened
 
