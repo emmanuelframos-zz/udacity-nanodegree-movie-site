@@ -1,6 +1,7 @@
 
 class Video:
-    """This class represents a parent class (code reusing) for Video objects, such as: Movies, Series and Documentaries."""
+    """This class represents a parent class (code reusing) for Video objects,
+     such as: Movies, Series and Documentaries."""
 
     def __init__(self, id, title, storyline, poster_image, youtube_trailer):
         """
@@ -21,7 +22,8 @@ class Video:
 
 
 class Movie(Video):
-    """This class is a subtype of Video, and inherit attributes from parent class."""
+    """This class is a subtype of Video, and inherit attributes from
+    parent class."""
 
     def __init__(self, id, title, storyline, poster_image, youtube_trailer):
         Video.__init__(

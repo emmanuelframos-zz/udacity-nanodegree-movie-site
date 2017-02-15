@@ -7,7 +7,8 @@ interstellar = media.Movie(
     "Interstellar",
     "A team of explorers travel through a wormhole in space in an attempt to "
     "ensure humanity's survival.",
-    "https://upload.wikimedia.org/wikipedia/en/b/bc/Interstellar_film_poster.jpg",
+    "https://upload.wikimedia.org/wikipedia/en/b/bc/Interstellar_film"
+    "_poster.jpg",
     "https://www.youtube.com/watch?v=zSWdZVtXT7E")
 
 # Instance of Batman movie.
@@ -38,7 +39,8 @@ star_wars = media.Movie(
     "newly established base, Luke Skywalker takes advanced Jedi training with"
     " Master Yoda, while his friends are pursued by Darth Vader as part of his"
     " plan to capture Luke.",
-    "https://upload.wikimedia.org/wikipedia/en/3/3c/SW_-_Empire_Strikes_Back.jpg",
+    "https://upload.wikimedia.org/wikipedia/en/3/3c/SW_-_Empire_Strikes"
+    "_Back.jpg",
     "https://www.youtube.com/watch?v=JNwNXF9Y6kY")
 
 # Instance of Fast and Furious movie
