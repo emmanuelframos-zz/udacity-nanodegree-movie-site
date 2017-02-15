@@ -3,6 +3,7 @@ class Video:
     """This class represents a parent class (code reusing) for Video objects,
      such as: Movies, Series and Documentaries."""
 
+    # Function used to construct object that inherits this class
     def __init__(self, id, title, storyline, poster_image, youtube_trailer):
         """
         Attributes
@@ -25,6 +26,8 @@ class Movie(Video):
     """This class is a subtype of Video, and inherit attributes from
     parent class."""
 
+    # Function used to construct object of type Movie, that extends properties
+    # from Video
     def __init__(self, id, title, storyline, poster_image, youtube_trailer):
         Video.__init__(
             self,
